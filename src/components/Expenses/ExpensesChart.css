@@ -1,0 +1,5 @@
+.chart {
+    background-color: rgb(246, 199, 246);
+    display: flex;
+    justify-content: space-evenly;
+}
